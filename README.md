@@ -11,7 +11,7 @@ We used the following datasets for validating our findings from the discovery da
 ## Constructing Individual-specific Gene Regulatory Networks
 We implemented the PANDA and LIONESS algorithms using Python package netzooPy (version 0.9.10) to construct individual sample-specific gene regulatory networks from all the discovery and validation datasets. Along with the gene expression data, two other data sources were integrated for constructing the networks: Transcription factor/target gene regulatory prior (derived by mapping Transcription factor motifs from the Catalog of Inferred Sequence Binding Preferences (CIS-BP) to the promoter of target genes) and protein-protein interaction (using the interaction scores from StringDb v11.5 between all Transcription factor in the regulatory prior).
 
-The networks are publicly available on the GRAND database: https://grand.networkmedicine.org/downloads/
+The networks are stored in an Amazon Web Services s3 bucket and will be made available upon reasonable request.
 
 ## Code
 R code for replicating the analysis are documented in README.txt
