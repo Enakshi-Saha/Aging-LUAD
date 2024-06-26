@@ -14,4 +14,4 @@ We implemented the PANDA and LIONESS algorithms using Python package netzooPy (v
 The networks are stored in an Amazon Web Services s3 bucket and will be made available upon reasonable request.
 
 ## Code
-R code for replicating the analysis are documented in README.txt
+R code for replicating the analysis are documented in /Code/README.txt
