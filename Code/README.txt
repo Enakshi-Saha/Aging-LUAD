@@ -8,7 +8,7 @@ Figure 2	Volcano plot of genes that are differentially targeted by TFs over vary
 Figure 3	Heatmap of normalized enrichment scores (NES) for pathways that are significantly differentially targeted by transcription factors with age among non-cancerous lung samples (GTEx). 	aging_heatmaps.R	24-Sep-23
 Figure 4	Boxplot of the rates of change in TF-targeting with age in GTEx 	GTEx_ageSlope_boxplot_smokingStatus.R	22-Nov-23
 Figure 5	Boxplot of the t-statistics of the age coefficient associated with the oncogenes and tumor suppressor genes from the limma analysis in GTEx.	cosmic_boxplot_GTEx.R	24-Sep-23
-Figure 6	Boxplot of the difference in TF-targeting of genes in TCGA normal adjacent samples compared to GTEx non-cancerous lung 	GTEx_TCGAnormal_young_old_agingGenes.R	23-Nov-23
+Figure 6	Boxplot of the difference in TF-targeting of genes in TCGA normal adjacent samples compared to GTEx non-cancerous lung 	GTEx_TCGA_young_old_agingGenes.R	23-Nov-23
 Figure 7	Normalized enrichment scores (NES) of the biological pathways that are significantly differentially targeted with age by transcription factors in tumor samples from TCGA. 	aging_heatmaps.R	24-Sep-23
 Figure 8	Kaplan-Meier plot for survival outcome in TCGA, split by median network-informed aging signature (left) and by median chronological age (right).	TCGA_suvival_biologicalAge.R	9-Dec-23
 Figure 9	Venn Diagram of Number of Small Molecule Drug Candidates Derived from CLUEreg	Manual (MS PowerPoint)	3-Dec-23
