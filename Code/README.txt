@@ -1,3 +1,14 @@
+# Package versions
+# “recount3” (version 1.4.0)
+# “recount” (version 1.20.0)
+# “GEOquery” (version 2.62.2)
+# “sva” (version 3.42.0)
+# limma (version 3.50.3)
+# fgsea (version 1.20.0)
+# immunedeconv (version 2.1.0)
+# survival (version 3.2.13)
+# GGally (package 2.1.2)
+
 Figure/Table/Result	Title	Code	Run date
 			
 Table 1	Clinical characteristics of the discovery and validation datasets.	Manual (MS Word)	23-Sep-23
